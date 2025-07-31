@@ -1,0 +1,8 @@
+{
+  "name": "NutriVis_netlify",
+  "description": "Um aplicativo para nutricionistas realizarem vistorias em serviços de alimentação, com base no Regulamento Técnico de Boas Práticas (RDC 216/04 da ANVISA).",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
